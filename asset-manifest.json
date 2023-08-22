@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Travel/static/css/main.3b58d843.css",
-    "main.js": "/Travel/static/js/main.60c16d5d.js",
+    "main.js": "/Travel/static/js/main.5a6b0138.js",
     "static/media/2.jpg": "/Travel/static/media/2.bbb41348bb839b9124d8.jpg",
     "static/media/1.jpg": "/Travel/static/media/1.509d4d795248ac9962f3.jpg",
     "static/media/indore.jpg": "/Travel/static/media/indore.568fd884a6a9d43ed99a.jpg",
@@ -15,10 +15,10 @@
     "static/media/night.jpg": "/Travel/static/media/night.ac6d287d5d0014553b87.jpg",
     "index.html": "/Travel/index.html",
     "main.3b58d843.css.map": "/Travel/static/css/main.3b58d843.css.map",
-    "main.60c16d5d.js.map": "/Travel/static/js/main.60c16d5d.js.map"
+    "main.5a6b0138.js.map": "/Travel/static/js/main.5a6b0138.js.map"
   },
   "entrypoints": [
     "static/css/main.3b58d843.css",
-    "static/js/main.60c16d5d.js"
+    "static/js/main.5a6b0138.js"
   ]
 }
