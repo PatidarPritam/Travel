@@ -1,3 +1,5 @@
+Built a travel-oriented website using HTML, CSS, JavaScript, and React, focusing on displaying various travel destinations. Implemented user-friendly features like the ability to send inquiries via email, showcasing proficiency in front-end development.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
